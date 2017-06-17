@@ -4571,7 +4571,7 @@
         "medicalgoodstrader.npctype.json": 0,
         "militarygoodstrader.npctype.json": 0,
         "poptopfarmer.npctype.json": 0,
-        "seedmerchant.npctype.json": 0,
+        "seedmerchant.npctype.json": 4,
         "spacemerchant.npctype.json": 2
       },
       "statuses.config.json": 503,
