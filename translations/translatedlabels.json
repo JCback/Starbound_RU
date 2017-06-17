@@ -1898,9 +1898,9 @@
               "predatory.legs.json": 2
             },
             "premier": {
-              "premier.chest.json": 0,
-              "premier.head.json": 0,
-              "premier.legs.json": 0
+              "premier.chest.json": 2,
+              "premier.head.json": 2,
+              "premier.legs.json": 2
             },
             "rainbowood": {
               "rainbowwood.chest.json": 2,
@@ -2080,7 +2080,7 @@
               "horse.head.json": 2
             },
             "industrialcrew": {
-              "industrialcrew.head.json": 0
+              "industrialcrew.head.json": 2
             },
             "insidious": {
               "insidious.head.json": 2
@@ -2101,7 +2101,7 @@
               "knight.head.json": 2
             },
             "ladyhat": {
-              "ladyhathead.head.json": 0
+              "ladyhathead.head.json": 2
             },
             "luchador": {
               "luchador.head.json": 2
@@ -2113,7 +2113,7 @@
               "m1helmet.head.json": 2
             },
             "mechpilot": {
-              "mechpilot.head.json": 0
+              "mechpilot.head.json": 2
             },
             "mininghat": {
               "mininghat.head.json": 2
@@ -2167,7 +2167,7 @@
               "sombrero.head.json": 2
             },
             "spacebird": {
-              "spacebird.head.json": 0
+              "spacebird.head.json": 2
             },
             "strawberry": {
               "strawberry.head.json": 2
@@ -2188,10 +2188,10 @@
               "tiger.head.json": 2
             },
             "tophat": {
-              "tophathead.head.json": 0
+              "tophathead.head.json": 2
             },
             "toptophat": {
-              "toptophathead.head.json": 0
+              "toptophathead.head.json": 2
             },
             "tvhelmet": {
               "tvhelmet.head.json": 2
@@ -2793,7 +2793,7 @@
           "shared_bombcollar.augment.json": 1
         }
       },
-      "categories.config.json": 80,
+      "categories.config.json": 83,
       "currency": {
         "essence.currency.json": 2,
         "money.currency.json": 2
@@ -3386,13 +3386,13 @@
           "wheat.item.json": 2
         },
         "salvage": {
-          "salvagearm.item.json": 0,
-          "salvagebody.item.json": 0,
-          "salvagebooster.item.json": 0,
-          "salvagelegs.item.json": 0,
-          "salvagetier4.item.json": 0,
-          "salvagetier5.item.json": 0,
-          "salvagetier6.item.json": 0
+          "salvagearm.item.json": 2,
+          "salvagebody.item.json": 2,
+          "salvagebooster.item.json": 2,
+          "salvagelegs.item.json": 2,
+          "salvagetier4.item.json": 2,
+          "salvagetier5.item.json": 2,
+          "salvagetier6.item.json": 2
         },
         "shop": {
           "cannedfood.consumable.json": 2,
@@ -3405,10 +3405,10 @@
           "soda.consumable.json": 2
         },
         "tradegoods": {
-          "electronicgoods.item.json": 0,
-          "foodgoods.item.json": 0,
-          "medicalgoods.item.json": 0,
-          "militarygoods.item.json": 0
+          "electronicgoods.item.json": 2,
+          "foodgoods.item.json": 2,
+          "medicalgoods.item.json": 2,
+          "militarygoods.item.json": 2
         },
         "tradingcards": {
           "card01.item.json": 2
